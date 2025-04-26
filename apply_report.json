@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-04-24T17:31:48Z",
+  "total_prompts": 1,
+  "passed_count": 1,
+  "failed_count": 0,
+  "alert_threshold": 0.05,
+  "prompt_details": [
+    {
+      "name": "intro",
+      "drift_score": 0.0026,
+      "passed": true
+    }
+  ]
+}

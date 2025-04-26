@@ -1,0 +1,6 @@
+cli/driftdune
+**/*.tfstate.json
+**/report.json
+.vscode/
+.idea/
+analyzer/venv/

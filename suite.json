@@ -1,0 +1,8 @@
+[
+  {
+    "name": "intro",
+    "baseline": "embeddings/intro_base.json",
+    "current":  "embeddings/intro_current.json"
+  }
+]
+
